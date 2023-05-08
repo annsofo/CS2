@@ -5,7 +5,7 @@
 
 This repo includes all necessary materials to complete the assignment, 'Signifiance of Tree Density in NYC'. They are linked below:
 
-1. [Introducion](./Hook document.pdf)
+1. [Introducion]
 2. Rubric
 3. Data
 4. Model Code 
