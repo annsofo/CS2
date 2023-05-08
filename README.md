@@ -41,6 +41,8 @@ This data is a result of merging data from the U.S. Census Bureau and NYC Open D
 - [Additional Code with Gini Index/Variable Importance](https://rstudio-pubs-static.s3.amazonaws.com/108298_75e23efda7f845f98af2c549a26b5958.html)
 
 ### Project Context
-- [NYC Parks: MillionTreesNYC](https://www.nycgovparks.org/trees/milliontreesnyc)
 - [NYT Article on tree density disparities](https://www.nytimes.com/interactive/2021/06/30/opinion/environmental-inequity-trees-critical-infrastructure.html)
+- [Bloomberg:  unequal distribution of trees](https://www.bloomberg.com/news/articles/2021-06-25/mapping-the-unequal-distribution-of-trees)
+- [NYC Parks: MillionTreesNYC](https://www.nycgovparks.org/trees/milliontreesnyc)
+- [NYT Article on aim for a greener NYC](https://www.nytimes.com/2022/02/12/nyregion/trees-parks-nyc.html)
 - [Existing Project on socioeconomic and spatial inequalities of street tree abundance](https://www.sciencedirect.com/science/article/abs/pii/S0169204620314766)
