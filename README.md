@@ -26,7 +26,7 @@ This data is a result of merging data from the U.S. Census Bureau and NYC Open D
 | Percentage Age Below 18 | From Decennial Census data at data.census.gov: P16 POPULATION IN HOUSEHOLDS BY AGE |
 | Percentage Renter Occupied Houses | From Decennial Census data at data.census.gov |
 | Population Density | Total population over census tract area square miles |
-| Census Tract Area Square Miles | Column from NYC Open Data Census Tracts Geometry Files |
+| Census Tract Area Square Miles | From NYC Open Data Census Tracts Geometry Files |
 | Percentage with Bachelor’s Degree and Up for 25+ Year Olds | From Decennial Census data at data.census.gov: DP2 SELECTED SOCIAL CHARACTERISTICS |
 | Percentage without High School Degree for 25+ Year Olds | From Decennial Census data at data.census.gov: DP2 SELECTED SOCIAL CHARACTERISTICS |
 | Mean Household Size | From Decennial Census data at data.census.gov: PCT008 AVERAGE HOUSEHOLD SIZE |
