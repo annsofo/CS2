@@ -18,9 +18,9 @@ This data is a result of merging data from the U.S. Census Bureau and NYC Open D
 | Total population | From the Kaggle NYC Census dataset |
 | Income per capita | From the Kaggle NYC Census dataset |
 | Unemployment rate | From the Kaggle NYC Census dataset |
-| Poverty rate | Column from the Kaggle NYC Census dataset |
-| Percentage of Professional Occupation | Column from the Kaggle NYC Census dataset |
-| Percentage of population that walks to work (Walk) | Column from the Kaggle NYC Census dataset |
+| Poverty rate | From the Kaggle NYC Census dataset |
+| Percentage of Professional Occupation | From the Kaggle NYC Census dataset |
+| Percentage of population that walks to work (Walk) | From the Kaggle NYC Census dataset |
 | Mean commute time (MeanCommute) | From the Kaggle NYC Census dataset |
 | Percentage Age Above 65 | From Decennial Census data at data.census.gov: P16 POPULATION IN HOUSEHOLDS BY AGE |
 | Percentage Age Below 18 | From Decennial Census data at data.census.gov: P16 POPULATION IN HOUSEHOLDS BY AGE |
