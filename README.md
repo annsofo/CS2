@@ -11,6 +11,29 @@ This repo includes all necessary materials to complete the assignment, 'Signifia
 
 ## Data Dictionary
 
+This data is a result of merging data from the U.S. Census Bureau and NYC Open Data
+
+| Variable Name | Source/Description |
+| --- | --- |
+| Total population | From the Kaggle NYC Census dataset |
+| Income per capita | From the Kaggle NYC Census dataset |
+| Unemployment rate | From the Kaggle NYC Census dataset |
+| Poverty rate | Column from the Kaggle NYC Census dataset |
+| Percentage of Professional Occupation | Column from the Kaggle NYC Census dataset |
+| Percentage of population that walks to work (Walk) | Column from the Kaggle NYC Census dataset |
+| Mean commute time (MeanCommute) | From the Kaggle NYC Census dataset |
+| Percentage Age Above 65 | From Decennial Census data at data.census.gov: P16 POPULATION IN HOUSEHOLDS BY AGE |
+| Percentage Age Below 18 | From Decennial Census data at data.census.gov: P16 POPULATION IN HOUSEHOLDS BY AGE |
+| Percentage Renter Occupied Houses | From Decennial Census data at data.census.gov |
+| Population Density | Total population over census tract area square miles |
+| Census Tract Area Square Miles | Column from NYC Open Data Census Tracts Geometry Files |
+| Percentage with Bachelor’s Degree and Up for 25+ Year Olds | From Decennial Census data at data.census.gov: DP2 SELECTED SOCIAL CHARACTERISTICS |
+| Percentage without High School Degree for 25+ Year Olds | From Decennial Census data at data.census.gov: DP2 SELECTED SOCIAL CHARACTERISTICS |
+| Mean Household Size | From Decennial Census data at data.census.gov: PCT008 AVERAGE HOUSEHOLD SIZE |
+| Tree density | Trees per square mile of each census tract, found on NYC Open Data |
+
+
+
 ## Sources 
 
 ### Model Building
